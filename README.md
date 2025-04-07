@@ -1,2 +1,2 @@
-# web_scraping
+# Ödev1-Notlarım
 web scraping
